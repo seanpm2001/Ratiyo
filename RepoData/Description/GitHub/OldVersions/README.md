@@ -1,0 +1,1 @@
+A tool for personal website analytics that can translate the worth of followers/subscribers across platforms (In example: sites like GitHub where it is harder to get followers: 7 GitHub followers to x YouTube subscribers, where it is not too uncommon to have thousands of subscribers, etc.)
